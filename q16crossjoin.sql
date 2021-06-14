@@ -1,0 +1,1 @@
+SELECT * FROM public.pets CROSS JOIN owners;
